@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: Sobre
 include_in_header: true
 ---
 
